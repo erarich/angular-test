@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,300&display=swap');
+
 aside {
   border-left: .03vw solid #e5e7eb;
   color: inherit;
@@ -20,4 +22,16 @@ aside {
 .h1-custom-size {
   font-size: 2.5vw; 
   color: #AFA9A9;
+}
+
+.montserrat-300 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: #636363
+}
+
+.custom-bold {
+  font-weight: bold;
 }
