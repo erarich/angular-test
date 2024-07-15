@@ -1,0 +1,46 @@
+.main-footer {
+  background: #282627 !important;
+  font-family: Montserrat,sans-serif;
+}
+
+.container {
+  padding-left: 1vw;
+  padding-right: 1vw;
+  max-width: 80%;
+}
+
+.container-sections {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 2vw;
+  padding-top: 1.2vw;
+  padding-bottom: 1.2vw;
+}
+
+
+.secondary-footer{
+  background-color: #3c3b3c;
+}
+
+footer article {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+article p, a {
+  font-size: 10px;
+}
+
+article a {
+  text-decoration: none;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+}
+
+.dix-log {
+  width: 6vw;
+  height: 3vw;
+  margin-left: 10px;
+}

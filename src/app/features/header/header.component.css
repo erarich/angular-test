@@ -1,0 +1,17 @@
+.bg-color-secondary {
+  --tw-bg-opacity: 1;
+  background-color: rgb(69 69 69/var(--tw-bg-opacity))
+}
+
+.header__first_row {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.container {
+  padding-left: 1vw;
+  padding-right: 1vw;
+  max-width: 80%;
+}
+
+

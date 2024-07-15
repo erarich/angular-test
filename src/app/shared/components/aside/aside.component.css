@@ -1,0 +1,23 @@
+aside {
+  border-left: .03vw solid #e5e7eb;
+  color: inherit;
+  border-left-width: 1px;
+  height: 100%;
+  padding-left: 1vw;
+}
+
+.container-title .line{
+  border-radius: 0 5px;
+}
+
+.line {
+  --tw-bg-opacity: 1;
+  background-color: rgb(204 0 0/var(--tw-bg-opacity));
+  height: 1.2vw;
+  width: 1.2vw;
+}
+
+.h1-custom-size {
+  font-size: 2.5vw; 
+  color: #AFA9A9;
+}
